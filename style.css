@@ -1,0 +1,180 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  outline: 0;
+  border: 0;
+}
+
+:root{
+  /* --color-primary: #ffc800; */
+  /* --color-primary: #11d68b; */
+  --color-primary: #0a8dea;
+  --color-gray-0: #fff;
+  --color-gray-100: #e8f2f8;
+  --color-gray-200: #d9dfe7;
+  --color-gray-300: #bdcad6;
+  --color-gray-400: #bbbbbb;
+  --color-gray-500: #9c9c9c;
+  --color-gray-600: #6a6a6a;
+  --color-gray-700: #4b5156;
+  --color-gray-800: #33373a;
+  --color-gray-900: #0f1316;
+
+
+--radius-1: 0.3rem;
+--radius-2: 0.6rem;
+--radius-3: 0.9rem;
+--radius-4: 1.5rem;
+--radius-5: 2.2rem;
+
+--transition: all 300ms ease;
+
+
+
+--container-w-lg: 80%;
+--container-w-md: 90%;
+--container-w-sm: 92%;
+
+}
+
+body{
+  font-family: sans-serif;
+  background: var(--color-gray-100);
+  color: var(--color-gray-900);
+  line-height: 1.5;
+  font-size: 0.9rem;
+  user-select: none;
+}
+
+.container{
+  width: var(--container-w-lg);
+  margin-inline: auto;
+}
+
+a{
+  color: var(--color-gray-900);
+  font-weight: 500;
+}
+
+img{
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-weight: 900;
+  line-height: 1.1;
+  color: var(--color-gray-900);
+  text-transform: uppercase;
+}
+
+h1{
+  font-size: 2.4rem;
+}
+
+h2{
+  font-size: 1.8rem;
+}
+
+h3{
+  font-size: 1.4rem;
+}
+
+h4{
+  font-size: 1rem;
+}
+
+h5{
+  font-size: 0.85rem;
+}
+
+h6{
+  font-size: 0.75rem;
+}
+
+.btn{
+  display: inline-block;
+  width: fit-content;
+  padding: 1rem 1.5rem;
+  border-radius: var(--radius-3);
+  color: var(--color-gray-900);
+  transition: var(--transition);
+}
+
+.btn.primary{
+  background: var(--color-primary);
+  color: var(--color-gray-0);
+}
+
+section {
+  padding: 8rem 0;
+}
+
+section:nth-of-type(odd) {
+  background: var(--color-gray-0);
+}
+
+.section_header{
+  text-align: center;
+  margin-inline: auto;
+  width: 60%;
+}
+
+.section_header p{
+  margin: 0.4rem 0 3rem;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* FLOATING NAVIGATION */
+
+nav{
+  background: var(--color-gray-0);
+  padding: 0.6rem;
+  border-radius: var(--radius-4);
+  box-shadow: 0 2rem 2rem -1rem rgba(0, 0, 0, 0.2), 0 -1rem 1rem -1rem rgba(255, 255, 255, 0.15);
+  position: fixed;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+}
+
+.nav_container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem;
+}
+
+nav a{
+  width: 2.8rem;
+  background-color: var(--color-gray-100);
+  display: grid;
+  place-items: center;
+  border-radius: var(--radius-3);
+  transition: var(--transition);
+}
+
+nav a:hover, nav a.active{
+  background: var(--color-primary);
+  color: var(--color-gray-0);
+}
