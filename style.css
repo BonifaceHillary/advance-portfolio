@@ -271,7 +271,7 @@ nav a:hover, nav a.active{
   color: var(--color-gray-0);
 }
 
-.theme_btn{
+.theme_btn {
   position: fixed;
   top: 2rem;
   right: 10%;
@@ -288,7 +288,7 @@ nav a:hover, nav a.active{
   transition: var(--transition);
 }
 
-.theme_btn:hover{
+.theme_btn:hover {
   background: var(--color-gray-900);
   color: var(--color-gray-0);
 }
