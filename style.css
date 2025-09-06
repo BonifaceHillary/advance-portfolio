@@ -243,11 +243,11 @@ nav a:hover, nav a.active{
   gap: 0.5rem;
 }
 
-.mainHeader_cta a i{
+.mainHeader_cta a i {
   font-size: 1.3rem;
 }
 
-.header_socials{
+.header_socials {
   position: absolute;
   right: 0;
   bottom: 6rem;
