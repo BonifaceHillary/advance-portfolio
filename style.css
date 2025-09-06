@@ -205,12 +205,12 @@ nav a:hover, nav a.active{
   position: relative;
 }
 
-.mainHeader p{
+.mainHeader p {
   max-width: 80ch;
   margin-inline: auto;
 }
 
- .mainHeader_image{
+ .mainHeader_image {
   width: 15rem;
   height: 17rem;
   border-radius: 7.5rem 7.5rem 3rem 3rem;
