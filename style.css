@@ -192,14 +192,14 @@ nav a:hover, nav a.active{
 
 /* MAIN HEADER */
 
-.mainHeader{
+.mainHeader {
   height: 100vh;
   min-height: fit-content;
   display: grid;
   place-items: center;
 }
 
-.mainHeader_container{
+.mainHeader_container {
   text-align: center;
   height: 100%;
   position: relative;
