@@ -226,11 +226,11 @@ nav a:hover, nav a.active{
   }
 }
 
-.mainHeader h2{
+.mainHeader h2 {
   margin: 0.5rem 0;
 }
 
-.mainHeader_cta{
+.mainHeader_cta {
   margin-top: 2rem;
   display: flex;
   justify-content: center;
