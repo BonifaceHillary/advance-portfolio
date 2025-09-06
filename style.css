@@ -165,7 +165,7 @@ nav{
   gap: 0.8rem;
 }
 
-nav a{
+nav a {
   width: 2.8rem;
   background-color: var(--color-gray-100);
   display: grid;
@@ -174,7 +174,7 @@ nav a{
   transition: var(--transition);
 }
 
-nav a:hover, nav a.active{
+nav a:hover, nav a.active {
   background: var(--color-primary);
   color: var(--color-gray-0);
 }
