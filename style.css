@@ -216,8 +216,15 @@ nav a:hover, nav a.active{
   border-radius: 7.5rem 7.5rem 3rem 3rem;
   overflow: hidden;
   margin: 6rem auto 1.5rem;
-  /* opacity: 0; */
+   opacity: 0;
+   animation: animateMainImage 2s 1s ease-out forwards; 
 } 
+
+@keyframes animateMainImage{
+  to{
+    opacity: 1;
+  }
+}
 
 .mainHeader h2{
   margin: 0.5rem 0;
