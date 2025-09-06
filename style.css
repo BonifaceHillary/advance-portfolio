@@ -220,8 +220,8 @@ nav a:hover, nav a.active{
    animation: animateMainImage 2s 1s ease-out forwards; 
 } 
 
-@keyframes animateMainImage{
-  to{
+@keyframes animateMainImage {
+  to {
     opacity: 1;
   }
 }
