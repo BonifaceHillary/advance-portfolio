@@ -40,6 +40,27 @@
 
 }
 
+.dark{
+    /* --color-primary: #ffc800; */
+  /* --color-primary: #11d68b; */
+  /* --color-primary: #0a8dea; */
+  --color-gray-0: #0c121d;
+  --color-gray-100: #1a212c;
+  --color-gray-200: #26313c;
+  --color-gray-300: #29374a;
+  --color-gray-400: #5b6879;
+  --color-gray-500: #7e8c9e;
+  --color-gray-600: #8f9dae;
+  --color-gray-700: #b4bdc7;
+  --color-gray-800: #e0e6ed;
+  --color-gray-900: #fff;
+
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
 body{
   font-family: sans-serif;
   background: var(--color-gray-100);
@@ -203,6 +224,7 @@ nav a:hover, nav a.active {
   text-align: center;
   height: 100%;
   position: relative;
+  /* margin-top: ; */
 }
 
 .mainHeader p {
@@ -212,7 +234,7 @@ nav a:hover, nav a.active {
 
  .mainHeader_image {
   width: 15rem;
-  height: 17rem;
+  height: 10rem;
   border-radius: 7.5rem 7.5rem 3rem 3rem;
   overflow: hidden;
   margin: 6rem auto 1.5rem;
