@@ -380,3 +380,68 @@ nav a:hover, nav a.active {
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   /* APPROACH OR PROCESS  */
+
+   .process h2{
+    margin-bottom: 0.4rem;
+   }
+
+   .process_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 4rem;
+   }
+
+   .process ul{
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+    margin-top: 3rem;
+   }
+
+   .process ul li{
+    display: flex;
+    gap: 1.5rem;
+    align-items: flex-start;
+   }
+
+   .process ul h1{
+    width: 7rem;
+    aspect-ratio: 1/1;
+    display: grid;
+    place-items: center;
+    background: var(--color-primary);
+    color: var(--color-gray-0);
+    border-radius: var(--radius-3);
+   }
+
+   .process h5{
+    margin-bottom: 0.3rem;
+   }
+
+   .process_right{
+    width: 20rem;
+    border-radius: 4rem;
+    overflow: hidden;
+    padding: 2rem;
+    background: white;
+   }
+
+
