@@ -445,3 +445,57 @@ nav a:hover, nav a.active {
    }
 
 
+
+
+
+
+
+
+
+
+
+   /* PORTFOLIO SECTION */
+   .portfolio_list{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
+    gap: 5rem;
+   }
+
+   .portfolio_item{
+    background: var(--color-gray-100);
+    border-radius: var(--radius-4);
+    overflow: hidden;
+    transition: var(--transition);
+   }
+
+   .portfolio_item:hover{
+    box-shadow: 0 3rem 3rem -2rem var(--color-gray-200);
+    cursor: default;
+   }
+
+   .portfolio_item-image{
+    height: 13rem;
+    border-radius: var(--radius-4);
+    box-shadow: var(--color-gray-300);
+    transition: var(--transition);
+   }
+
+   .portfolio_item-content{
+    padding: 1.4rem;
+   }
+
+   .portfolio_item-content p{
+    margin: 0.7rem 0 1.5rem;
+   }
+
+   .portfolio_item-cta{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+   }
+
+   .portfolio_item-cta i{
+    font-size: 1.2rem;
+   }
+
+
