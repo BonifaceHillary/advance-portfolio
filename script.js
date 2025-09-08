@@ -1,4 +1,23 @@
 
+const navMenu = document.querySelectorAll('nav a')
+
+const removeActiveClass = () => {
+  navMenu.forEach(itme => {
+    itme.classList.remove('active')
+  })
+
+}
+
+navMenu.forEach(itme => {
+  itme.addEventListener('click', () => {
+    removeActiveClass()
+    itme.classList.add('active')
+  })
+
+})
+
+
+
 const themeBtn = document.querySelector('.theme_btn')
 themeBtn.addEventListener('click', () => {
   if(document.body.className == ''){
@@ -21,7 +40,7 @@ window.addEventListener('load', () => {
   document.body.className = savedTheme
   if(document.body.className == '') {
     themeBtn.innerHTML = ` <i class="ph ph-moon"></i>`
-    
+
   } else {
      themeBtn.innerHTML = ` <i class="ph ph-sun"></i>`
   }
