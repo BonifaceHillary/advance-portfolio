@@ -166,7 +166,7 @@ nav {
   z-index: 10;
 }
 
-.nav_container{
+.nav_container {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -186,16 +186,6 @@ nav a:hover, nav a.active {
   background: var(--color-primary);
   color: var(--color-gray-0);
 }
-
-
-
-
-
-
-
-
-
-
 
 
 /* MAIN HEADER */
