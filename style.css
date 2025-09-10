@@ -152,22 +152,9 @@ section:nth-of-type(odd) {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* FLOATING NAVIGATION */
 
-nav{
+nav {
   background: var(--color-gray-0);
   padding: 0.6rem;
   border-radius: var(--radius-4);
