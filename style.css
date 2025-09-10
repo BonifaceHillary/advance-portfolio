@@ -8,7 +8,7 @@
   border: 0;
 }
 
-:root{
+:root {
   /* --color-primary: #ffc800; */
   /* --color-primary: #11d68b; */
   --color-primary: #0a8dea;
@@ -75,7 +75,7 @@ body {
   margin-inline: auto;
 }
 
-a{
+a {
   color: var(--color-gray-900);
   font-weight: 500;
 }
