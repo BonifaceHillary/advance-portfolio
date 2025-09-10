@@ -152,22 +152,9 @@ section:nth-of-type(odd) {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* FLOATING NAVIGATION */
 
-nav{
+nav {
   background: var(--color-gray-0);
   padding: 0.6rem;
   border-radius: var(--radius-4);
@@ -179,7 +166,7 @@ nav{
   z-index: 10;
 }
 
-.nav_container{
+.nav_container {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -199,16 +186,6 @@ nav a:hover, nav a.active {
   background: var(--color-primary);
   color: var(--color-gray-0);
 }
-
-
-
-
-
-
-
-
-
-
 
 
 /* MAIN HEADER */
