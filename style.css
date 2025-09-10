@@ -118,7 +118,7 @@ h6 {
   font-size: 0.75rem;
 }
 
-.btn{
+.btn {
   display: inline-block;
   width: fit-content;
   padding: 1rem 1.5rem;
@@ -127,7 +127,7 @@ h6 {
   transition: var(--transition);
 }
 
-.btn.primary{
+.btn.primary {
   background: var(--color-primary);
   color: var(--color-gray-0);
 }
