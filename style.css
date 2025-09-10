@@ -890,11 +890,15 @@ nav a:hover, nav a.active {
       gap: 1rem;
     }
 
-    .footer_sitemap{
+    .footer_sitemap {
       flex-direction: column;
       align-items: center;
       gap: 2rem;
       margin-bottom: 2.5rem;
+    }
+
+     .testimonials_list .testimonial {
+      margin-top: rem;
     }
 
 
