@@ -299,30 +299,15 @@ nav a:hover, nav a.active {
   color: var(--color-gray-0);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* ABOUT SECTION  */
-
-.about_container{
+.about_container {
   display: grid;
   grid-template-columns: 26rem auto;
   gap: 8rem;
   align-items: center;
 }
 
-.about_left{
+.about_left {
   aspect-ratio: 1/1;
   border-radius: 5rem;
   overflow: hidden;
