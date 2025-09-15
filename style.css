@@ -626,18 +626,7 @@ nav a:hover, nav a.active {
     padding: 1.2rem 0;
    }
 
-
-
-
-
-
-
-
-
-
-
    /* MEDIA QUERRY FOR TABLETS */
-
    @media (max-width: 960px) {
     body{
       font-size: 1rem;
@@ -720,25 +709,12 @@ nav a:hover, nav a.active {
     
    }
 
-
-
-
-
-
-
-
-
-
-
    /* QUERRY FOR PHONE */
    @media (max-width: 600px) {
     .container{
       width: var(--container-w-sm);
     }
 
-    
-    
-    
     .section_header{
       min-height: 100vh;
     }
