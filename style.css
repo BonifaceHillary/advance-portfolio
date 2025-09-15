@@ -661,17 +661,17 @@ nav a:hover, nav a.active {
       gap: 3rem;
     }
 
-    .about_left{
+    .about_left {
       width: 60vmin;
       margin-inline: auto;
     }
 
-    .process_container{
+    .process_container {
       grid-template-columns: 1fr;
       gap: 3rem;
     }
 
-    .portfolio_list{
+    .portfolio_list {
       gap: 1.5rem;
     }
 
