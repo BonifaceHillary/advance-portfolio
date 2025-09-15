@@ -472,7 +472,7 @@ nav a:hover, nav a.active {
 
     .testimonial:nth-of-type(2){  animation-delay: -18s; 
  } 
-  
+
  .testimonial:nth-of-type(3){  animation-delay: -12s; 
 } 
 
@@ -513,25 +513,7 @@ nav a:hover, nav a.active {
     font-weight: 500;
    }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
    /* CONTACT */
-
    .contact_container{
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -590,20 +572,7 @@ nav a:hover, nav a.active {
     display: inline-block;
    }
 
-
-
-
-
-
-
-
-
-
-
-
-
    /* FOOTER */
-
    footer{
     padding-top: 5rem;
    }
