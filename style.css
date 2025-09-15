@@ -514,13 +514,13 @@ nav a:hover, nav a.active {
    }
 
    /* CONTACT */
-   .contact_container{
+   .contact_container {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 10rem;
    }
 
-   .contact_menu{
+   .contact_menu {
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
@@ -739,7 +739,7 @@ nav a:hover, nav a.active {
       gap: 1.5rem;
     }
 
-    .process li{
+    .process li {
       flex-direction: column;
       align-items: flex-start;
       background: var(--color-gray-0);
