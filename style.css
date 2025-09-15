@@ -675,11 +675,11 @@ nav a:hover, nav a.active {
       gap: 1.5rem;
     }
 
-    .portfolio_list{
+    .portfolio_list {
       gap: 2rem;
     }
 
-    .testimonials_list{
+    .testimonials_list {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
       min-height: fit-content;
@@ -687,7 +687,7 @@ nav a:hover, nav a.active {
       padding-bottom: 3rem;
     }
 
-    .testimonials_list::before{
+    .testimonials_list::before {
       background: transparent;
     }
 
