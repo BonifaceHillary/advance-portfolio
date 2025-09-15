@@ -691,14 +691,14 @@ nav a:hover, nav a.active {
       background: transparent;
     }
 
-    .testimonial{
+    .testimonial {
       position: relative;
       animation: none;
       left: 0;
       width: fit-content;
     }
 
-    .contact_container{
+    .contact_container {
       grid-template-columns: 1fr;
       gap: 3rem;
     }
