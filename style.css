@@ -648,15 +648,15 @@ nav a:hover, nav a.active {
       width: 100%;
     }
 
-    .theme_btn{
+    .theme_btn {
       right: 5%;
     }
 
-    .header_socials{
+    .header_socials {
       display: none;
     }
 
-    .about_container{
+    .about_container {
       grid-template-columns: 1fr;
       gap: 3rem;
     }
