@@ -636,15 +636,15 @@ nav a:hover, nav a.active {
       width: var(--container-w-md);
     }
 
-    section{
+    section {
       padding-block: 6rem;
     }
 
-    .mainHeader{
+    .mainHeader {
       height: 74vh;
     }
 
-    .mainHeader p{
+    .mainHeader p {
       width: 100%;
     }
 
