@@ -527,11 +527,11 @@ nav a:hover, nav a.active {
     margin: 3rem;
    }
 
-   .contact_container article p{
+   .contact_container article p {
     margin-top: 0.5rem;
    }
 
-   .contact_menu a{
+   .contact_menu a {
     display: flex;
     align-items: center;
     gap: 1.2rem;
