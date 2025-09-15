@@ -703,7 +703,7 @@ nav a:hover, nav a.active {
       gap: 3rem;
     }
 
-    .footer_sitemap{
+    .footer_sitemap {
       gap: 1rem;
     }
     
@@ -711,7 +711,7 @@ nav a:hover, nav a.active {
 
    /* QUERRY FOR PHONE */
    @media (max-width: 600px) {
-    .container{
+    .container {
       width: var(--container-w-sm);
     }
 
