@@ -715,11 +715,11 @@ nav a:hover, nav a.active {
       width: var(--container-w-sm);
     }
 
-    .section_header{
+    .section_header {
       min-height: 100vh;
     }
     
-    .mainHeader_image{
+    .mainHeader_image {
       margin-top: 3rem;
     }
     
