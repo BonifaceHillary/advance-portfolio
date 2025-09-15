@@ -632,7 +632,7 @@ nav a:hover, nav a.active {
       font-size: 1rem;
     }
 
-    .container{
+    .container {
       width: var(--container-w-md);
     }
 
@@ -747,11 +747,11 @@ nav a:hover, nav a.active {
       border-radius: var(--radius-4);
     }
 
-    .process li h1{
+    .process li h1 {
       width: 4rem;
     }
 
-    .footer_container{
+    .footer_container {
       flex-direction: column;
       gap: 1rem;
     }
