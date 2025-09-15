@@ -335,24 +335,7 @@ nav a:hover, nav a.active {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
    /* APPROACH OR PROCESS  */
-
    .process h2{
     margin-bottom: 0.4rem;
    }
@@ -398,16 +381,6 @@ nav a:hover, nav a.active {
     padding: 2rem;
     background: white;
    }
-
-
-
-
-
-
-
-
-
-
 
    /* PORTFOLIO SECTION */
    .portfolio_list{
@@ -659,6 +632,13 @@ nav a:hover, nav a.active {
     display: flex;
     gap: 3rem;
    }
+
+    .footer_sitemap:hover{
+        color: var(--color-gray-0);
+     background:  var(--color-gray-900);
+
+    }
+
 
 
    .footer_socials{
