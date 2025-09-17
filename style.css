@@ -573,11 +573,11 @@ nav a:hover, nav a.active {
    }
 
    /* FOOTER */
-   footer{
+   footer {
     padding-top: 5rem;
    }
 
-   footer .container{
+   footer .container {
     display: flex;
     align-items: center;
     justify-content: space-between;
