@@ -538,7 +538,7 @@ nav a:hover, nav a.active {
     width: fit-content;
    }
 
-   .contact_menu span{
+   .contact_menu span {
     width: 3rem;
     aspect-ratio: 1/1;
     background: var(--color-primary);
@@ -549,7 +549,7 @@ nav a:hover, nav a.active {
     font-size: 1.3rem;
    }
 
-   .contact_menu a h5{
+   .contact_menu a h5 {
     margin-bottom: 0.5rem;
    }
 
