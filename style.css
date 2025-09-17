@@ -559,7 +559,7 @@ nav a:hover, nav a.active {
     gap: 1rem;
    }
 
-   form input, form textarea{
+   form input, form textarea {
     background: var(--color-gray-100);
     width: 100%;
     padding: 1rem;
@@ -567,7 +567,7 @@ nav a:hover, nav a.active {
     border-radius: var(--radius-2);
    }
 
-   form label{
+   form label {
     margin: 0.5rem 1rem;
     display: inline-block;
    }
