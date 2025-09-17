@@ -583,12 +583,12 @@ nav a:hover, nav a.active {
     justify-content: space-between;
    }
 
-   .footer_sitemap{
+   .footer_sitemap {
     display: flex;
     gap: 3rem;
    }
 
-    .footer_sitemap:hover{
+    .footer_sitemap:hover {
         color: var(--color-gray-0);
      background:  var(--color-gray-900);
 
