@@ -613,12 +613,12 @@ nav a:hover, nav a.active {
     border-radius:  0.7rem;
    }
 
-   .footer_socials a:hover{
+   .footer_socials a:hover {
     color: var(--color-gray-0);
     background: var(--color-gray-900);
    }
 
-   footer .copyright{
+   footer .copyright {
     background: var(--color-gray-200);
     display: block;
     text-align: center;
