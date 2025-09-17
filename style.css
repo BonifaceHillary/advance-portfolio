@@ -596,13 +596,13 @@ nav a:hover, nav a.active {
 
 
 
-   .footer_socials{
+   .footer_socials {
     display: flex;
     gap: 1rem;
     align-items: center;
    }
 
-   .footer_socials a{
+   .footer_socials a {
     background: var(--color-gray-0);
     color: var(--color-gray-900);
     display: grid;
