@@ -1,6 +1,5 @@
 
 const navMenu = document.querySelectorAll('nav a')
-
 const removeActiveClass = () => {
   navMenu.forEach(itme => {
     itme.classList.remove('active')
