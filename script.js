@@ -11,7 +11,6 @@ navMenu.forEach(itme => {
     removeActiveClass()
     itme.classList.add('active')
   })
-
 })
 
 
