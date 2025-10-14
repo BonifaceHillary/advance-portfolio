@@ -5,7 +5,6 @@ const removeActiveClass = () => {
   navMenu.forEach(itme => {
     itme.classList.remove('active')
   })
-
 }
 
 navMenu.forEach(itme => {
