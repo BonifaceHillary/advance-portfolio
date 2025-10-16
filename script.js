@@ -35,7 +35,6 @@ window.addEventListener('load', () => {
   document.body.className = savedTheme
   if(document.body.className == '') {
     themeBtn.innerHTML = ` <i class="ph ph-moon"></i>`
-
   } else {
      themeBtn.innerHTML = ` <i class="ph ph-sun"></i>`
   }
