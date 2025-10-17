@@ -36,4 +36,5 @@ window.addEventListener('load', () => {
   } else {
      themeBtn.innerHTML = ` <i class="ph ph-sun"></i>`
   }
+  
 })
