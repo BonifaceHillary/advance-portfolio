@@ -20,7 +20,6 @@ themeBtn.addEventListener('click', () => {
     document.body.className = 'dark'
     localStorage.setItem('portfolio_theme', 'dark')
     themeBtn.innerHTML = `<i class="ph ph-sun"></i>`
-
   } else{
     document.body.className = ''
     localStorage.setItem('portfolio_theme', '')
