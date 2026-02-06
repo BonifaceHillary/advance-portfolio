@@ -738,7 +738,6 @@ nav a:hover, nav a.active {
     .process ul {
       gap: 1.5rem;
     }
-
     .process li {
       flex-direction: column;
       align-items: flex-start;
