@@ -750,7 +750,6 @@ nav a:hover, nav a.active {
     .process li h1 {
       width: 4rem;
     }
-
     .footer_container {
       flex-direction: column;
       gap: 1rem;
