@@ -755,7 +755,6 @@ nav a:hover, nav a.active {
       flex-direction: column;
       gap: 1rem;
     }
-
     .footer_sitemap {
       flex-direction: column;
       align-items: center;
