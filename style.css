@@ -746,7 +746,6 @@ nav a:hover, nav a.active {
       pad: 1rem;
       border-radius: var(--radius-4);
     }
-
     .process li h1 {
       width: 4rem;
     }
