@@ -5,7 +5,6 @@ const removeActiveClass = () => {
     itme.classList.remove('active')
   })
 }
-
 navMenu.forEach(itme => {
   itme.addEventListener('click', () => {
     removeActiveClass()
