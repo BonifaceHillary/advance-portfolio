@@ -484,7 +484,6 @@ nav a:hover, nav a.active {
     .testimonial:nth-of-type(6){
      animation-delay: 6s; 
     }
-
    .testimonials_list:hover .testimonial{
     animation-play-state: paused;
    }
