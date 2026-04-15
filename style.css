@@ -444,7 +444,7 @@ nav a:hover, nav a.active {
     background: linear-gradient(90deg, var(--color-gray-100), transparent, transparent, transparent, transparent, transparent, var(--color-gray-100));
    }
 
-   .testimonial{
+   .testimonial {
     background: var(--color-gray-0);
     text-align: center;
     padding: 1.5rem;
@@ -465,12 +465,12 @@ nav a:hover, nav a.active {
     
    }
 
-   .testimonial:nth-of-type(1){
+   .testimonial:nth-of-type(1) {
     animation-delay: -24s;
 
    }
 
-    .testimonial:nth-of-type(2){  animation-delay: -18s; 
+    .testimonial:nth-of-type(2) {  animation-delay: -18s; 
  } 
 
  .testimonial:nth-of-type(3){  animation-delay: -12s; 
