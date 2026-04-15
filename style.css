@@ -354,13 +354,13 @@ nav a:hover, nav a.active {
     margin-top: 3rem;
    }
 
-   .process ul li{
+   .process ul li {
     display: flex;
     gap: 1.5rem;
     align-items: flex-start;
    }
 
-   .process ul h1{
+   .process ul h1 {
     width: 7rem;
     aspect-ratio: 1/1;
     display: grid;
@@ -370,11 +370,11 @@ nav a:hover, nav a.active {
     border-radius: var(--radius-3);
    }
 
-   .process h5{
+   .process h5 {
     margin-bottom: 0.3rem;
    }
 
-   .process_right{
+   .process_right {
     width: 20rem;
     border-radius: 4rem;
     overflow: hidden;
