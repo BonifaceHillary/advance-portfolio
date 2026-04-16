@@ -482,12 +482,12 @@ nav a:hover, nav a.active {
     .testimonial:nth-of-type(6) {
      animation-delay: 6s; 
     }
-    
-   .testimonials_list:hover .testimonial{
+
+   .testimonials_list:hover .testimonial {
     animation-play-state: paused;
    }
 
-   .testimonial_image{
+   .testimonial_image {
     width: 5rem;
     aspect-ratio: 1/1;
     margin-inline: auto;
