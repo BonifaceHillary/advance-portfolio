@@ -732,6 +732,7 @@ nav a:hover, nav a.active {
     .process ul {
       gap: 1.5rem;
     }
+    
     .process li {
       flex-direction: column;
       align-items: flex-start;
@@ -739,7 +740,7 @@ nav a:hover, nav a.active {
       pad: 1rem;
       border-radius: var(--radius-4);
     }
-    
+
     .process li h1 {
       width: 4rem;
     }
@@ -755,6 +756,7 @@ nav a:hover, nav a.active {
       gap: 2rem;
       margin-bottom: 2.5rem;
     }
+
      .testimonials_list .testimonial {
       margin-top: rem;
     }
