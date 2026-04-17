@@ -726,13 +726,15 @@ nav a:hover, nav a.active {
     .theme_btn {
       right: 4%;
     }
+    
     .about_left {
       width: 100%;
     }
+
     .process ul {
       gap: 1.5rem;
     }
-    
+
     .process li {
       flex-direction: column;
       align-items: flex-start;
