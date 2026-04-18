@@ -459,10 +459,9 @@ nav a:hover, nav a.active {
    }
 
    @keyframes animateTestimonial {
-    to{
+    to {
       left: -16rem;
     }
-    
    }
 
    .testimonial:nth-of-type(1) {
