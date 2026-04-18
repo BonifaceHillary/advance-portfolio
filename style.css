@@ -501,7 +501,6 @@ nav a:hover, nav a.active {
     box-shadow: 0 2rem 1.5rem -1rem var(--color-gray-300);
    }
 
-
    .testimonial span i {
     color: gold;
    }
@@ -589,7 +588,6 @@ nav a:hover, nav a.active {
     .footer_sitemap:hover {
         color: var(--color-gray-0);
      background:  var(--color-gray-900);
-
     }
 
    .footer_socials {
