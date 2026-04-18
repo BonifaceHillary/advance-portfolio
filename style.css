@@ -592,8 +592,6 @@ nav a:hover, nav a.active {
 
     }
 
-
-
    .footer_socials {
     display: flex;
     gap: 1rem;
@@ -626,7 +624,7 @@ nav a:hover, nav a.active {
 
    /* MEDIA QUERRY FOR TABLETS */
    @media (max-width: 960px) {
-    body{
+    body {
       font-size: 1rem;
     }
 
