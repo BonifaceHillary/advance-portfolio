@@ -339,7 +339,7 @@ nav a:hover, nav a.active {
     margin-bottom: 0.4rem;
    }
 
-   .process_container{
+   .process_container {
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;
