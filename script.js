@@ -11,6 +11,7 @@ navMenu.forEach(itme => {
     itme.classList.add('active')
   })
 })
+
 const themeBtn = document.querySelector('.theme_btn')
 themeBtn.addEventListener('click', () => {
   if(document.body.className == ''){
