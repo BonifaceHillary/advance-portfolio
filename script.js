@@ -23,6 +23,7 @@ themeBtn.addEventListener('click', () => {
     themeBtn.innerHTML = `<i class="ph ph-moon"></i>`
   }
 })
+
 // GET THEME FROM localStorage
 window.addEventListener('load', () => {
   const savedTheme = localStorage.getItem('portfolio_theme') || ''
