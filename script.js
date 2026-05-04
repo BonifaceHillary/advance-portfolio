@@ -12,6 +12,7 @@ navMenu.forEach(itme => {
   })
 })
 
+
 const themeBtn = document.querySelector('.theme_btn')
 themeBtn.addEventListener('click', () => {
   if(document.body.className == ''){
