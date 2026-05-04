@@ -26,7 +26,6 @@ themeBtn.addEventListener('click', () => {
   }
 })
 
-
 // GET THEME FROM localStorage
 window.addEventListener('load', () => {
   const savedTheme = localStorage.getItem('portfolio_theme') || ''
